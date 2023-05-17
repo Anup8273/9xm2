@@ -14,19 +14,19 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ᴀʀɴᴀᴠ ダ ᴍᴜsɪᴄ")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "⏤͟͟͞❥͜͡𝄟⃟𝐌𝐢𝐬𝐭𝐲💐⃝❤️𝐌𝐮𝐬𝐢𝐜𝄟⃟🎸")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5482561033").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "5379949226").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Xdarnav/ArnavXMusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Anup8273/9xm2")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ilexupdates")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/link_copied")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mistyamraj_ki_kahani")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/best_friends_chatting_grup")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -76,34 +76,34 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/92484a4578afe8348ed74.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg",
+    "https://graph.org/file/92484a4578afe8348ed74.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-GLOBAL_IMG_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+GLOBAL_IMG_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-STATS_IMG_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+STATS_IMG_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-STREAM_IMG_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+STREAM_IMG_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-YOUTUBE_IMG_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/ec2c2ff62ece901c28697.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/92484a4578afe8348ed74.jpg"
 
 
 def time_to_seconds(time):
