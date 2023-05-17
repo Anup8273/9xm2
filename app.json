@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5482561033",
+        "value": "5379949226",
         "required": true
       },
       "STRING_SESSION": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001733900890",
+        "value": "-1001835969605",
         "required": true
       }
     },
